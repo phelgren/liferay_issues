@@ -1,4 +1,5 @@
-This is an issue with the AUI taglib not properly displaying a button component accompanied by this stack trace
+# This is an issue with the AUI taglib not properly displaying a button component accompanied by this stack trace
+
 
 28-Sep-2017 18:45:42.498 SEVERE [http-nio-5050-exec-10] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet jsp threw exception
  javax.servlet.ServletException: File [/html/taglib/aui/button/end.jsp/invoke] not found
